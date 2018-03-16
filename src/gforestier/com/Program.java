@@ -1,4 +1,4 @@
-package com.nmetivier;
+package gforestier.com;
 
 import java.util.Scanner;
 
